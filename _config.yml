@@ -1,0 +1,28 @@
+name: Frédéric Ranft
+favicon: null
+layout_spectrum: 0.43974074558354914
+typography_spectrum: 0.5261904094368219
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.21997863543219864
+  lightness: 0.21654710150323808
+  saturation: 0.2312159633729607
+  rhythmicContrast: 0.6167023130692542
+purpose: []
