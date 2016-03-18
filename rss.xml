@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Frédéric Ranft]]></title>
+        <description><![CDATA[Frédéric Ranft]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 16:49:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://cdn-images-1.medium.com/max/2000/1*WjwkJyhi_-zyYkVjAQISCQ.jpeg">]]></description>
+            <link>undefinedbb5aefed-e1a7-497f-b594-e64662d65c0a/index.html</link>
+            <guid isPermaLink="false">bb5aefed-e1a7-497f-b594-e64662d65c0a</guid>
+            <pubDate>Fri, 18 Mar 2016 16:49:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
