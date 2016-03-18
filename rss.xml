@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Frédéric Ranft]]></title>
         <description><![CDATA[Frédéric Ranft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fredericranft/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Fri, 18 Mar 2016 16:49:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/fredericranft/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Die Kamera wackelt wenn wir mit Martin Freeman das Studio betreten, im Studio wird noch gearbeitet, wir hören die Absprachen des Teams, keine musikalische Untermalung, und der Hauptdarsteller wirkt auf einmal seltsam unsicher vor der Kamera. In diesem Moment werden wir aus Betrachtern Beteiligte. Wir sind fortan eingeweiht.</p>]]></description>
+            <link>https://thegrid.ai/fredericranft/die-kamera-wackelt-wenn-wir-mit-martin-freeman-das-studio-be/index.html</link>
+            <guid isPermaLink="false">b4fc9004-17ee-421b-8b5f-7fc6feba5513</guid>
+            <pubDate>Fri, 18 Mar 2016 16:49:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://cdn-images-1.medium.com/max/2000/1*WjwkJyhi_-zyYkVjAQISCQ.jpeg">]]></description>
-            <link>undefinedbb5aefed-e1a7-497f-b594-e64662d65c0a/index.html</link>
+            <link>https://thegrid.ai/fredericranft/bb5aefed-e1a7-497f-b594-e64662d65c0a/index.html</link>
             <guid isPermaLink="false">bb5aefed-e1a7-497f-b594-e64662d65c0a</guid>
             <pubDate>Fri, 18 Mar 2016 16:49:52 GMT</pubDate>
         </item>
