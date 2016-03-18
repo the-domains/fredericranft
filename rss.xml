@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Frédéric Ranft]]></title>
-        <description><![CDATA[Frédéric Ranft]]></description>
+        <title><![CDATA[f_ranft]]></title>
+        <description><![CDATA[f_ranft]]></description>
         <link>https://thegrid.ai/fredericranft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 16:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 16:58:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fredericranft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,11 +21,11 @@
             <pubDate>Fri, 18 Mar 2016 16:49:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://cdn-images-1.medium.com/max/2000/1*WjwkJyhi_-zyYkVjAQISCQ.jpeg">]]></description>
-            <link>https://thegrid.ai/fredericranft/bb5aefed-e1a7-497f-b594-e64662d65c0a/index.html</link>
+            <title><![CDATA[Europas fehlende Oberflächlichkeit]]></title>
+            <description><![CDATA[<article><h1>Europas fehlende Oberflächlichkeit</h1><p>Oberflächen haben es schwer. Im Alltag erleben wir sie nur beiläufig, sie sind selten erwähnens- oder bemerkenswert. Und wenn es darauf ankommt, genügen sie nicht. Dann begeben wir uns lieber in die Tiefe: Grundsatzdebatten, der Inhalt zählt. Dinge werden hinterfragt und durchgearbeitet bis wir unter der Oberfläche sind. Hinter ihr steckt bekanntlich mehr—wir vermuten: die Wahrheit. Alles andere ist nur oberflächlich oder gar Täuschung.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd972a1dbeef73465115fc365458eb4eb002bc53.jpg"></article>]]></description>
+            <link>https://medium.com/@fredericranft/europas-fehlende-oberfl%C3%A4chlichkeit-c94747246b70#.ehvxbx1w0</link>
             <guid isPermaLink="false">bb5aefed-e1a7-497f-b594-e64662d65c0a</guid>
-            <pubDate>Fri, 18 Mar 2016 16:49:52 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2016 16:58:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
