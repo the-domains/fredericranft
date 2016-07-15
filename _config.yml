@@ -1,7 +1,7 @@
 name: Frédéric Ranft
 favicon: null
-layout_spectrum: 0.25114
-typography_spectrum: 0.02022
+layout_spectrum: 0.42358
+typography_spectrum: 0.94837
 title: f_ranft
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#696af3'
     - '#8f91f5'
     - '#d0d8fd'
-  brandStrength: 0
-  lightness: 0.9375
+  brandStrength: 1
+  lightness: 0.6875
   saturation: 0
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
